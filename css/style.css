@@ -772,14 +772,14 @@ body {
     margin: 24px;
 }
 
-.courses__box {
+.box-courses {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
 
 }
 
-.courses__box>*:not(:last-child) {
+.box-courses>*:not(:last-child) {
     margin-bottom: 20px;
 }
 
